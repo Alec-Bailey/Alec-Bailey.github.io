@@ -1,0 +1,23 @@
+{
+  "name": "alec-bailey.github.io",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alec-Bailey/Alec-Bailey.github.io.git"
+  },
+  "author": "Alec Bailey",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Alec-Bailey/Alec-Bailey.github.io/issues"
+  },
+  "homepage": "https://github.com/Alec-Bailey/Alec-Bailey.github.io#readme",
+  "dependencies": {
+    "autoprefixer": "^10.2.6",
+    "tailwindcss": "^2.2.4"
+  }
+}
